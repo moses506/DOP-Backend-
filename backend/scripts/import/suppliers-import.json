@@ -1,0 +1,1479 @@
+{
+  "source": "Sourcing Log Book (Google Sheets)",
+  "suppliers": [
+    {
+      "name": "Axiz",
+      "website": "https://info.axiz.com/our-vendors/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 1,
+          "account_number": "SJSA54",
+          "terms": "credit",
+          "credit_limit": "450000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "channel@axiz.com",
+          "other_emails": [
+            "Marinda.Sanders@axiz.com",
+            "Juanita.VanStaden@axiz.com"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 1,
+          "account_number": "SJD8085",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": "Julian Hattingh",
+          "contact_email": "Julian.Hattingh@axiz.com",
+          "other_emails": [
+            "Portia.Sithole@axiz.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Tarsus",
+      "website": "https://tarsusdistribution.co.za/technology-partners/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 2,
+          "account_number": "TA10044121",
+          "terms": "credit",
+          "credit_limit": "500000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Contact@tarsus.co.za",
+          "other_emails": [
+            "TeamNN@tarsus.co.za"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 2,
+          "account_number": "TA10023926",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "DNaude@tarsus.co.za",
+          "other_emails": [
+            "alltarsusjhbafricasales@tarsus.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Mustek",
+      "website": "https://mustek.co.za/all-brands/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 3,
+          "account_number": "867197",
+          "terms": "credit",
+          "credit_limit": "400000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "KeitumetseMt@mustek.co.za",
+          "other_emails": [
+            "telesales@mustek.co.za"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 3,
+          "account_number": "856508",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": "Dean Moodley",
+          "contact_email": "DeanM@mustek.co.za",
+          "other_emails": [
+            "tenders@mustek.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "First Distribution",
+      "website": "https://www.firstdistribution.com/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 4,
+          "account_number": "FDSA01433",
+          "terms": "credit",
+          "credit_limit": "400000",
+          "currency": "ZAR",
+          "contact_name": "Jackie Van Lonkhuyzen",
+          "contact_email": "Jackie.VanLonkhuyzen@firstdistribution.com",
+          "other_emails": [
+            "jhbinternalsales@firstdistribution.com",
+            "Lewis.Dudley@firstdistribution.com"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 7,
+          "account_number": "FDSA00709",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "Sanele.Ngwenya@firstdistribution.com",
+          "other_emails": [
+            "Lewis.Dudley@firstdistribution.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Westcon Comstor",
+      "website": "https://www.westconcomstor.com/ssa/en/vendors.html",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 5,
+          "account_number": "0001052618",
+          "terms": "credit",
+          "credit_limit": "350000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "candice.gouws@westcon.com",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Exclusive Networks",
+      "website": "https://www.exclusive-networks.com/za/vendors/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 6,
+          "account_number": "SAD001",
+          "terms": "credit",
+          "credit_limit": "350000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "JMudzingiranwa@exclusive-networks.co.za",
+          "other_emails": [
+            "TNovitzkas@exclusive-networks.co.za"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 8,
+          "account_number": "SAD001",
+          "terms": "credit",
+          "credit_limit": "350000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "JMudzingiranwa@exclusive-networks.co.za",
+          "other_emails": [
+            "TNovitzkas@exclusive-networks.co.za"
+          ],
+          "note": "Check: the Zambia row repeats the South Africa account number, credit limit and contacts."
+        }
+      ]
+    },
+    {
+      "name": "SMD Technologies",
+      "website": "https://smdtechnologies.com",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 7,
+          "account_number": "A25171",
+          "terms": "credit",
+          "credit_limit": "300000",
+          "currency": "ZAR",
+          "contact_name": "Amit Desai",
+          "contact_email": "amit@SMDTechnologies.com",
+          "other_emails": [
+            "ingrid@smdtechnologies.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Nology",
+      "website": "https://www.nology.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 8,
+          "account_number": "SAD004",
+          "terms": "credit",
+          "credit_limit": "300000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "sales@nology.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Rectron",
+      "website": "https://www.rectron.co.za/vendor-partnerships",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 9,
+          "account_number": "80101732",
+          "terms": "credit",
+          "credit_limit": "300000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "PalesaLe@rectron.co.za",
+          "other_emails": [
+            "shehzaadm@rectron.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Taropa Technologies (Pty) Ltd",
+      "website": "https://www.taropa.co.za/product?brand=hp",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 10,
+          "account_number": "SAD0001",
+          "terms": "credit",
+          "credit_limit": "250000",
+          "currency": "ZAR",
+          "contact_name": "Allan Knoetze",
+          "contact_email": "AllanK@taropa.co.za",
+          "other_emails": [
+            "sales01@taropa.co.za",
+            "sales02@taropa.co.za",
+            "sales03@taropa.co.za",
+            "Armand@taropa.co.za",
+            "Sollie@taropa.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Sensor Security Systems SA",
+      "website": "https://sensorsecurity.co.za/about/#brands",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 11,
+          "account_number": "SAD0001",
+          "terms": "credit",
+          "credit_limit": "250000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Esta@sensorsecurity.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Pinnacle",
+      "website": "https://www.pinnacle.co.za/brands-managers",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 12,
+          "account_number": "SAD008",
+          "terms": "credit",
+          "credit_limit": "200000",
+          "currency": "ZAR",
+          "contact_name": "Roxanne Janisch",
+          "contact_email": "RoxanneJ@pinnacle.co.za",
+          "other_emails": [
+            "channel-jhb@pinnacle.co.za"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 4,
+          "account_number": "DIG040",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "RoderickP@pinnacle.co.za",
+          "other_emails": [
+            "leratop@pinnacle.co.za",
+            "sadc-sales@pinnacle.co.za",
+            "Jhb_Tenders@pinnacle.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Eurobyte",
+      "website": "https://eurobyte.co.za/wp-content/uploads/2020/07/Networking-Catalogue-2020-07_3_1-Final.pdf",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 13,
+          "account_number": "SADOS1",
+          "terms": "credit",
+          "credit_limit": "200000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "anoeshka@eurobyte.co.za",
+          "other_emails": [
+            "melissa@eurobyte.co.za",
+            "portia@eurobyte.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Drive Control (DCC Technologies)",
+      "website": "https://drivecontrol.co.za/brands.html",
+      "notes": "Also trades as DCC Technologies.",
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 14,
+          "account_number": "SADO5",
+          "terms": "credit",
+          "credit_limit": "250000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Siyabonga.Mcanyana@dcctech.com",
+          "other_emails": [
+            "Shazia.Adam@drivecon.net"
+          ],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 5,
+          "account_number": "DIG74",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "Saul.Ndou@dcctech.com",
+          "other_emails": [
+            "amelia.bhebhe@dcctech.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Kolok SA",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 15,
+          "account_number": "31713",
+          "terms": "credit",
+          "credit_limit": "150000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "waheed.kafaar@koloksa.co.za",
+          "other_emails": [
+            "Freddy.kopa@koloksa.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Core Group SA",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 16,
+          "account_number": null,
+          "terms": "credit",
+          "credit_limit": "100000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "ayanda.mazibuko@core.co.za",
+          "other_emails": [
+            "info.arp@core.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "ORMS",
+      "website": "https://www.ormsdirect.co.za/brands-main",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 17,
+          "account_number": "006762",
+          "terms": "credit",
+          "credit_limit": "50000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "info@orms.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Headsets Solutions",
+      "website": "https://www.headsetsolutions.co.za/brands/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 18,
+          "account_number": "CSAD100",
+          "terms": "credit",
+          "credit_limit": "50000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "megan@headsetsolutions.co.za",
+          "other_emails": [
+            "audrey@headsetsolutions.co.za",
+            "kathryn@headsetsolutions.co.za",
+            "reedev@headsetsolutions.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Fast Forward IT",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 19,
+          "account_number": "DIGITAL01",
+          "terms": "credit",
+          "credit_limit": "40000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "anel@ffit.co.za",
+          "other_emails": [
+            "orderscpt@ffit.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Corporate Business Solutions (Pty) Ltd",
+      "website": "https://cbs.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 20,
+          "account_number": "9SA0012",
+          "terms": "credit",
+          "credit_limit": "30000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "samn@cbs.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Logitech SA",
+      "website": "http://logitechsa.co.za/Pages/About-Us.asp",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 21,
+          "account_number": "06560",
+          "terms": "credit",
+          "credit_limit": "20000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "claudia@logitechsa.co.za",
+          "other_emails": [
+            "fernando@logitechsa.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Digital ID Technologies",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 22,
+          "account_number": "SAD003",
+          "terms": "credit",
+          "credit_limit": "20000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "renee@digitalidinc.com",
+          "other_emails": [
+            "sales@digitalidinc.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Scoop",
+      "website": "https://scoop.co.za/information/about-scoop/about-us/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 23,
+          "account_number": "JSAD003",
+          "terms": "credit",
+          "credit_limit": "10000",
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "jhb@scoop.co.za",
+          "other_emails": [],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 6,
+          "account_number": "DIG019",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "jhb@scoop.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Planet World",
+      "website": "https://www.planetworld.co.za/about",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 24,
+          "account_number": "JJV002",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "JJ van Tonder",
+          "contact_email": "jj@planetworld.co.za",
+          "other_emails": [
+            "info@planetworld.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "PC International",
+      "website": "https://pcinternational.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 25,
+          "account_number": "SAD001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Donovan Ferreira",
+          "contact_email": "sales7@pcint.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "The Network Warehouse",
+      "website": "https://tnw.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 26,
+          "account_number": "DIG009",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "gaynor@tnw.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Cable Feeder Systems Africa (Pty) Ltd",
+      "website": "https://www.cfsafrica.com/our-customers/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 27,
+          "account_number": "CAS004",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "hnel@cfsafrica.com",
+          "other_emails": [
+            "ivolschenk@cfsafrica.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "New Teltron SA",
+      "website": "https://newteltron.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 28,
+          "account_number": "D700993",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "nico@newteltron.co.za",
+          "other_emails": [
+            "darrelln@newteltron.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Esquire",
+      "website": null,
+      "notes": "Brands: Esquire.",
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 29,
+          "account_number": "SDG001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "info@esquire.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "LinkQage SA",
+      "website": "https://www.linkqage.com",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 30,
+          "account_number": "CAS096",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "LizelleH@linkqage.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "MIRO",
+      "website": "https://miro.co.za/brands",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 31,
+          "account_number": "CDOS011",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Brendon@miro.co.za",
+          "other_emails": [
+            "cich@miro.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "PartServe",
+      "website": "https://www.partserve.co.za/index.php/it-spare-parts",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 32,
+          "account_number": "CRJ747",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Faghrie Davis",
+          "contact_email": "faghried@partserve.co.za",
+          "other_emails": [
+            "anezkac@partserve.co.za",
+            "sales@partserve.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Smart Office Connexion Gauteng (Pty) Ltd",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 33,
+          "account_number": "CA7789",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "vivann@soxgp.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Printers and Parts Direct",
+      "website": "https://www.printersandpartsdirect.co.za/brands",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 34,
+          "account_number": "SAD001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Kiara Van Vuuren",
+          "contact_email": "sales2@printersandpartsdirect.co.za",
+          "other_emails": [
+            "james@printersandpartsdirect.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Connex Technology (Pty) Ltd",
+      "website": "http://www.cxtechnology.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 35,
+          "account_number": "PUB001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "sales01@cxtechnology.co.za",
+          "other_emails": [
+            "info@cxtechnology.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "HugePC",
+      "website": "https://www.huge.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 36,
+          "account_number": "SADO00",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Kyarah",
+          "contact_email": "kyarah@huge.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Laptop Solutions SA",
+      "website": "https://laptopsolutions.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 37,
+          "account_number": "CS0000",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Jeanette B.",
+          "contact_email": "sales1@laptopsolutions.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Netlink Computers SA",
+      "website": "https://netlinkcomputers.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 38,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "sales@netlinkcomputers.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Tech Express S.A",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 39,
+          "account_number": "CAS03",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "joem@techexpress.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Printer Distribution Company (TPDC)",
+      "website": "https://www.tpdc.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 40,
+          "account_number": "SAD0001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "justinep@tpdc.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Parrot Products (Pty) Ltd",
+      "website": "https://www.parrot.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 41,
+          "account_number": "601/COD37430",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "sales@parrotproducts.biz",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Kathea Communication Solutions (Pty) Ltd",
+      "website": "https://www.kathea.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 42,
+          "account_number": "CDIG009",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "quotes@kathea.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "XL Solutions SA",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 43,
+          "account_number": "SA004",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "jhbsales@xls.co.za",
+          "other_emails": [
+            "orders@xls.co.za",
+            "info@xls.co.za",
+            "finance@xls.co.za",
+            "accounts@xls.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Polycomp SA",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 44,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Chantelle@polycomp.co.za",
+          "other_emails": [
+            "Fabio@polycomp.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Dax Data SA",
+      "website": "https://www.daxdata.co.za/solutions/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 45,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "nmpoyi@daxdata.co.za",
+          "other_emails": [
+            "sales@daxdata.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Duxbury Networking",
+      "website": "https://store.duxbury.co.za/products.html",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 46,
+          "account_number": "DASOS1",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "wpelman@duxnet.co.za",
+          "other_emails": [
+            "asmal@duxnet.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Giraffe and Co (Pty) Ltd",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 47,
+          "account_number": "Di001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "admin@giraffeandco.com",
+          "other_emails": [
+            "orders@giraffeandco.com",
+            "support@giraffeandco.com",
+            "finance@giraffeandco.com"
+          ],
+          "note": "Check: the log has 'Account Manager - Di001' — Di001 taken as the account number."
+        }
+      ]
+    },
+    {
+      "name": "Evetech SA",
+      "website": "https://www.evetech.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 48,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "stephan@evetech.co.za",
+          "other_emails": [
+            "sales@evetech.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "HP Store",
+      "website": "https://www.hpshop.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 49,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "onezwam@hpexperience.co.za",
+          "other_emails": [
+            "sales@hpshop.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Audiosure",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 50,
+          "account_number": "SAD003",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "rudiec@audiosure.co.za",
+          "other_emails": [
+            "JohanS@audiosure.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Page Automation (Pty) Ltd",
+      "website": "https://pageauto.co.za/products/multifunctional-printers/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 51,
+          "account_number": "JSAD001",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Charmeon@pageauto.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Office Machine Distributors Holdings",
+      "website": "https://officemd.co.za/about-us/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 52,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "kerry@officemd.co.za",
+          "other_emails": [
+            "chereen@Itloffice.co.za",
+            "ashleigh@officemd.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "CSX Customer Services (Pty) Ltd",
+      "website": "https://www.csx.co.za/scanners/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 53,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "rickyf@csx.co.za",
+          "other_emails": [
+            "info@csx.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Syntech",
+      "website": "https://www.syntech.co.za/brands/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 54,
+          "account_number": "SAD002",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "Karjil@syntech.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Solution Technologies Gauteng (Pty) Ltd",
+      "website": "https://www.soltech.co.za/pages/brands",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 55,
+          "account_number": "DIG010",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Megan",
+          "contact_email": "megan@soltech.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Computer Mania",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 56,
+          "account_number": "HO0000",
+          "terms": null,
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Michael",
+          "contact_email": "michael@computermania.co.za",
+          "other_emails": [],
+          "note": "Check: no payment terms in the log; its website link pointed to Kemtek."
+        }
+      ]
+    },
+    {
+      "name": "Kemtek",
+      "website": "https://kemtek.co.za/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 57,
+          "account_number": "14623",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": "Jacqueline Everts",
+          "contact_email": "Jacquelinee@kemtek.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Netlogix Distribution (Pty) Ltd",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZA",
+          "source_row": 58,
+          "account_number": "DIG006",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "ZAR",
+          "contact_name": null,
+          "contact_email": "peplink@netlogix.co.za",
+          "other_emails": [],
+          "note": null
+        },
+        {
+          "region": "ZM",
+          "source_row": 12,
+          "account_number": "DIG006",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "peplink@netlogix.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "SPL",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZM",
+          "source_row": 9,
+          "account_number": "DOSL777",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "Innocent@spl.co.za",
+          "other_emails": [
+            "Sales@spl.co.za"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Silveray Stationery Company",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZM",
+          "source_row": 10,
+          "account_number": "DIG115",
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "seans@silveray.co.za",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Elytis",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "ZM",
+          "source_row": 11,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "Game.Motshwaedi@elytis.mu",
+          "other_emails": [
+            "onaelle.mootoosamy@elytis.mu",
+            "microsoft@elytis.mu",
+            "visham.beersing@elytis.mu"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Sourcing IT",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "GB",
+          "source_row": 1,
+          "account_number": null,
+          "terms": "credit",
+          "credit_limit": "10000",
+          "currency": "USD",
+          "contact_name": "Jack",
+          "contact_email": "Jack@sourcing-it.co.uk",
+          "other_emails": [
+            "jacksourcingit@gmail.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "CyberPulse",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "GB",
+          "source_row": 2,
+          "account_number": null,
+          "terms": "credit",
+          "credit_limit": "5000",
+          "currency": "USD",
+          "contact_name": "Logan",
+          "contact_email": "logan@cyberpulsecomputing.co.uk",
+          "other_emails": [
+            "kate@cyberpulsecomputing.co.uk"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "IT Hardware and Software Ltd",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "GB",
+          "source_row": 3,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": "Kian",
+          "contact_email": "kian@ithsltd.com",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "HiperDist",
+      "website": null,
+      "notes": null,
+      "accounts": [
+        {
+          "region": "GB",
+          "source_row": 4,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": "Claude Croci",
+          "contact_email": "Claude_Croci@hiperdist.com",
+          "other_emails": [
+            "azeemuddin_mohammed@hiperdist.com"
+          ],
+          "note": null
+        }
+      ]
+    },
+    {
+      "name": "Bulk Devices UK",
+      "website": "https://bulkdevices.co.uk/",
+      "notes": null,
+      "accounts": [
+        {
+          "region": "GB",
+          "source_row": 5,
+          "account_number": null,
+          "terms": "cod",
+          "credit_limit": null,
+          "currency": "USD",
+          "contact_name": null,
+          "contact_email": "support@bulkdevices.co.uk",
+          "other_emails": [],
+          "note": null
+        }
+      ]
+    }
+  ]
+}

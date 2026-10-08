@@ -1,0 +1,43 @@
+# Local development database + mail catcher:   docker compose up -d db mail
+# Emails sent locally appear at http://localhost:8025 (Mailpit); nothing leaves your machine.
+# Full stack (API + web on :8080): docker compose up --build
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: dos
+      POSTGRES_PASSWORD: dos
+      POSTGRES_DB: dos_bpas
+    ports:
+      - "${DB_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./backend/scripts/create-test-db.sql:/docker-entrypoint-initdb.d/10-test-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dos -d dos_bpas"]
+      interval: 3s
+      retries: 20
+
+  mail:
+    image: axllent/mailpit:latest
+    ports:
+      - "${MAIL_SMTP_PORT:-1025}:1025"   # SMTP
+      - "${MAIL_UI_PORT:-8025}:8025"     # web inbox
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      APP_ENV: development
+      DATABASE_URL: postgres://dos:dos@db:5432/dos_bpas?sslmode=disable
+      JWT_SECRET: change-me-to-a-long-random-string-at-least-32-chars
+      CORS_ORIGINS: http://localhost:8080
+      WEB_DIR: /app/web
+    ports:
+      - "8080:8080"
+    profiles: ["full"]
+
+volumes:
+  pgdata:
